@@ -1,0 +1,7 @@
+Name: Bongmoyong Gad Fomonyuy
+Exercise done: Exercise 1(Hello LLM Endpoint)
+Challenges faced
+1. I was trying to test the endpoints testable both from code and browser so i was instead using
+the GET method instead of POST so the it was only giving me 405 eror which said
+method not allowed
+2. The Token limit, generation settings, and model size affected the performance and usability
