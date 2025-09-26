@@ -13,3 +13,11 @@ Challenges faced
 1. The model used facebook/bart-large-cnn is not really summarizing the 
 text, it's rather making it short by taking just the first
 sentences from the original text
+
+Name: Bongmoyong Gad Fomonyuy
+Exercise done: Exercise 3(Sentiment Analysis API)
+Challenges faced
+I wanted to add more than one statement to judge the sentiments but
+but i was rather trying to use an array and not importing list from
+typing library. I didn't face many difficulties because it was similar to 
+what was done in class
