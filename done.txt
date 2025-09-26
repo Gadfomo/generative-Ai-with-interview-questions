@@ -21,3 +21,11 @@ I wanted to add more than one statement to judge the sentiments but
 but i was rather trying to use an array and not importing list from
 typing library. I didn't face many difficulties because it was similar to 
 what was done in class
+
+
+Name: Bongmoyong Gad Fomonyuy
+Exercise done: Exercise 4(Multimodal Image Captioning)
+Challenges faced
+I was rather using the GET and not the POST to upload image and also when i used 
+the POST i wasn't able to upload until i had to use the 
+localhost:8000/docs
