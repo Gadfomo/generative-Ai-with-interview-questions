@@ -29,3 +29,9 @@ Challenges faced
 I was rather using the GET and not the POST to upload image and also when i used 
 the POST i wasn't able to upload until i had to use the 
 localhost:8000/docs
+
+
+Name: Bongmoyong Gad Fomonyuy
+Exercise done: Exercise 5(rag-query)
+Challenges faced
+The hugging face model is hallucinating when i give a query
